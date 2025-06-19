@@ -1,8 +1,3 @@
-Great work finishing the project! Here's a professional and clear `README.md` file tailored for your **GH Timeline Email Verification** PHP project:
-
----
-
-```markdown
 # 📬 GH Timeline - Email Verification & GitHub Notifications
 
 This is a PHP-based email verification system that registers users using their email, sends a verification code, and subscribes them to GitHub timeline updates. A CRON job fetches the latest GitHub activity every 5 minutes and emails updates to verified users.
